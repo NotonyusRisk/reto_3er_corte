@@ -1,1 +1,1 @@
-The starting point of your repository
+Integrantes: Luis Gil, Jesus Munera, Antonio Rudas
